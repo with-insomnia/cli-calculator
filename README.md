@@ -48,7 +48,7 @@ command line calculator with roman numbers
 cd cli-calculator
 ```
 
-3. Adding a guesser is simple. You just need to add in the URL a guesser, in other words, the name of one of the files present in the 
+3. Run
 
 ```console
 go run . 5 "*" 2
